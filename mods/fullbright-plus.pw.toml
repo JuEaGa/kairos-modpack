@@ -1,0 +1,13 @@
+name = "Fullbright Plus"
+filename = "fullbright-1.21.1-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "349bee1b0541a40b56f86cc135f7a2a081369616"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8211447
+project-id = 1567838

@@ -1,0 +1,10 @@
+{
+  "advancements": true,
+  "recipes": true,
+  "system": false,
+  "tutorial": true,
+  "globalVanilla": false,
+  "globalModded": false,
+  "global": false,
+  "blockedClasses": []
+}

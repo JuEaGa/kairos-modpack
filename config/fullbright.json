@@ -1,0 +1,10 @@
+{
+	"enabled": true,
+	"noFog": true,
+	"retain_on_state": false,
+	"on_state": true,
+	"brightIntensity": 15,
+	"keyToggle": 71,
+	"keyNoFog": 72,
+	"keyConfig": 74
+}

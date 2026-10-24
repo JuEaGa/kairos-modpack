@@ -1,0 +1,13 @@
+name = "Bad Mobs Fabric"
+filename = "badmobs-fabric-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49680b366de42fc0619883ec85c379ec4aff2037"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7849842
+project-id = 1500358
