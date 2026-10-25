@@ -374,6 +374,11 @@ hash = "3db4d6fb9084b8fc513fed4ebc9fb86aac02fabf777ef505f43077f42764f2e0"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "35df83c6af1fe4a847eee2b971124c313615691ffaa5fd4a6c8be8124c589433"
 metafile = true
@@ -414,6 +419,11 @@ hash = "47d2932677b3d64b19630e6bda7a53d0fa2778b3e0b9a98ba9dea630334ef44a"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks-unoffical-fabric-port.pw.toml"
 hash = "a4eebb2bda9daccc5444b8bd2d91f4ee8ce2325dd51436cb785ca33530b98ecd"
 metafile = true
@@ -436,4 +446,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "20c1f7aecceba3026603dd76af900020f317f27d65d1292d2a1f2432afc0376d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
 metafile = true
