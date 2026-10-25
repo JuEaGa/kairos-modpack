@@ -13,4 +13,5 @@ Modpack joueur du serveur Kairos (Minecraft 1.21.1, Fabric, Cobblemon 1.7.3), au
 - `serveur/eggs-resourcepack.zip` : pack de textures envoyé par le serveur (pas installé par packwiz).
 
 ## Crédits
+- Interface style Pokémon Noir et Blanc (inventaire, coffres, barre de PV, HUD, menus Cobblemon) : [CobbleNostalgia Gen 5 Style GUI](https://modrinth.com/resourcepack/generation-5-black-and-white-style-ui) par Lenkagari, licence MIT.
 - Machine à sous (modèle 3D, symboles, sons) : [Casino Rocket](https://modrinth.com/mod/casino-rocket) par AndresPR, licence MIT (voir `assets/casinorocket/LICENSE_casinorocket.txt` dans le pack de textures).
