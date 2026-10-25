@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
@@ -336,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/complete-cobblemon-collection-mod-version.pw.toml"
 hash = "71b569b9701f6e780538696ced7095a136d5aba393db7fc0b2c5624f340f923a"
+metafile = true
+
+[[files]]
+file = "mods/emerald-ruby-tools-armor.pw.toml"
+hash = "9a369aa7564be1569a6f736206d02bf643cc4b55b561a6c502c30c41f905157b"
 metafile = true
 
 [[files]]
