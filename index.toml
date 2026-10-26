@@ -284,6 +284,11 @@ hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "fb5deb56a77c8a30f9fbc0c54ba5768bdb6d84c9b94d6de36edfb3076bff94b0"
+metafile = true
+
+[[files]]
 file = "mods/bad-mobs-fabric.pw.toml"
 hash = "7b816db17c6f0b3627734c2d161dab2a23cc918f2f8002d3de80540e7a5b2afe"
 metafile = true
@@ -291,6 +296,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/cobblecuisine.pw.toml"
+hash = "dd9c84c3f22e37ee533990585112642b5c9a7ede61d29e5d13330a99b9a48b02"
+metafile = true
+
+[[files]]
+file = "mods/cobblefurnies.pw.toml"
+hash = "4ea6079e726435a8a9ecc92824c9bd2e0636495a4d73f8641e014cd5060c4d45"
 metafile = true
 
 [[files]]
@@ -319,8 +334,18 @@ hash = "dcddd73570fb0fdf95b42ed571983ad923612309c723e030b0875ea003fab8f1"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-pasture-loot.pw.toml"
+hash = "253284368b80980f3261e44b2a539db0a608f525c6adfe8f096803de0c8e9c90"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "678baec8610df6f61753c7a7b7de12cbab206ee0d6db8961fecef628c8e3ecc0"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-trainer-structures.pw.toml"
+hash = "00dc83c23e1bb8e6e39e3dea89a410ba6926c1e11051c755658e052a81a4930e"
 metafile = true
 
 [[files]]
@@ -331,6 +356,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "840724c9076c34ea8cbd88090f197cacecba08e9ca86619e596e2536109db444"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens.pw.toml"
+hash = "3e1c0b09e95b7f03d678877aad15abb9a12f9e3427e35c93a25d074ee188b794"
+metafile = true
+
+[[files]]
+file = "mods/cobblethemes.pw.toml"
+hash = "7af8b7876f9e730eb2da137c6f2e85739dfbf69a706dca95b991c68dac3ca742"
 metafile = true
 
 [[files]]
@@ -364,6 +399,11 @@ hash = "cb46bcd009e7bc1d7526c4d754d2c832940e3524526b5ac0a6cf3bdd713424d8"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5f62f54e16fdc97a0fb21b63a563583f85d141772f6aa99f68d40cd654b7dc35"
+metafile = true
+
+[[files]]
 file = "mods/gooeylibs.pw.toml"
 hash = "e9f750a958b5123ec672761d0b6ebc14f84a0ba1421a5800b28cc706efbe596f"
 metafile = true
@@ -389,6 +429,11 @@ hash = "c51a2b21847608f50773378886e3503e4ae22b55b8a69cc9bd9016f089f84995"
 metafile = true
 
 [[files]]
+file = "mods/livelierpokemon.pw.toml"
+hash = "22f4091fdb17ea00f5b144529f6b956b57e348ddb028a794efaeca85bd36e876"
+metafile = true
+
+[[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "2e2458b04a71807f2199c536b8b97912151558332078fe527c791dc1268ead3a"
 metafile = true
@@ -409,8 +454,18 @@ hash = "59f3b2e1679e710e694b04e712b2f79be11ec4f1591d831c3adaa86e16d0c1ef"
 metafile = true
 
 [[files]]
+file = "mods/pokeblocks.pw.toml"
+hash = "5db32bd841fda8547d27e6c74ca4c11ea9a50285fbade0bed654deb8b5e48db0"
+metafile = true
+
+[[files]]
 file = "mods/radical-cobblemon-trainers-api.pw.toml"
 hash = "97ee44e99955eeaad7173d3040a575333816f3c9e8f3b69eb3043b9dd17dad43"
+metafile = true
+
+[[files]]
+file = "mods/radical-gyms-cobblemon.pw.toml"
+hash = "1f2b2182565e431b5e0c0fa7c6991c2debd6ba89e6905ca6518acfb95df821a8"
 metafile = true
 
 [[files]]
@@ -446,6 +501,16 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "20c1f7aecceba3026603dd76af900020f317f27d65d1292d2a1f2432afc0376d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemotion.pw.toml"
+hash = "054ce94a96600e3208b7ba01871ba0c00d5b0257f6b42bbd2386cfa3536a35e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hydro-reanimodel-pack.pw.toml"
+hash = "c9c315b87fbfc1b1efeefa957dc3832a8dc58cd85cff079b6b661f3a54b53419"
 metafile = true
 
 [[files]]
